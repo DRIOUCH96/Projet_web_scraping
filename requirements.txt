@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12
+jupyter>=1.0
+nbclient>=0.10
+nbformat>=5.10
+pandas>=2.0
+requests>=2.31
+truststore>=0.10
