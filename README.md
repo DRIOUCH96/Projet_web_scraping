@@ -43,11 +43,3 @@ La vérification HTTPS n'est jamais désactivée.
 
 Le contact public configuré est `https://github.com/DRIOUCH96`. Il peut être
 modifié via la variable `CONTACT` dans les notebooks 2 et 3.
-
-## Limite du brief
-
-La situation professionnelle mentionne l'entraînement d'un modèle
-d'apprentissage profond. Les notebooks fournis, les livrables et les critères
-d'évaluation portent toutefois uniquement sur la collecte web. Aucun jeu de
-cibles, objectif de prédiction ou protocole d'évaluation de modèle n'est défini ;
-ce volet doit donc faire l'objet d'un brief complémentaire avant implémentation.
